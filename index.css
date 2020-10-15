@@ -2,3 +2,16 @@ body {
   background-color: #663399;
   color: #FFBD1B;
 }
+select{
+  background-color: #9B1C31;
+  color: #FFBD1B;
+}
+select:focus{
+  border-color: #FFBD1B;
+}
+button{
+  margin-top: 10px;
+  display: block;
+  background-color: #FFBD1B;
+  color: #9B1C31;
+}
